@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       Thanh Toan's blog
+      <div>v2</div>
     </div>
   );
 }
